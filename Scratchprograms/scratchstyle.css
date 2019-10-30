@@ -2,3 +2,35 @@ body{background-color:rgb(89,187,243);
 color: white;   
 
 }
+
+button{
+    border-radius: 8px;
+    size: 16px;
+    color: white;
+    border: 2px solid rgb(226, 65, 16);
+    -webkit-transition-duration: .4s;
+    transition-duration: .4s;
+    background: rgb(226, 65, 16);
+    padding: 14px 40px;
+
+
+}
+
+button:hover{
+
+background-color:white;
+color: red;
+}
+
+
+      div {
+        width: 100px;
+        height: 100px;
+        background: red;
+        transition: width 2s;
+      }
+      
+      div:hover {
+        width: 300px;
+      }
+    
