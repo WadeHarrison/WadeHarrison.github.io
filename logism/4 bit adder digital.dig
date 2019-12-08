@@ -230,8 +230,13 @@
       <pos x="-200" y="340"/>
     </visualElement>
     <visualElement>
-      <elementName>Ground</elementName>
-      <elementAttributes/>
+      <elementName>In</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+      </elementAttributes>
       <pos x="700" y="20"/>
     </visualElement>
   </visualElements>
