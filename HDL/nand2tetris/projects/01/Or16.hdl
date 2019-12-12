@@ -27,5 +27,5 @@ CHIP Or16 {
 	Or(a=k,b=in[12],out=l);
 	Or(a=l,b=in[13],out=m);
 	Or(a=m,b=in[14],out=n);
-	Or(a=n,b=in[15],out=out);
+	Or(a=n,b=in[15],Out=out);
 }
