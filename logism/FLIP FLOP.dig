@@ -38,6 +38,16 @@
       <elementAttributes/>
       <pos x="220" y="380"/>
     </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Description</string>
+          <string>D flip flop</string>
+        </entry>
+      </elementAttributes>
+      <pos x="480" y="120"/>
+    </visualElement>
   </visualElements>
   <wires>
     <wire>
